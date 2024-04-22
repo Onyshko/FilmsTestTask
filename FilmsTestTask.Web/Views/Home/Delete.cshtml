@@ -1,0 +1,49 @@
+﻿@model FilmsTestTask.Services.Models.FilmMvcModel
+
+@{
+    ViewData["Title"] = "Фільми";
+}
+
+<h1>Видалити</h1>
+<div>
+    <hr />
+    <dl class="row">
+        <div class="form-group row">
+            <dt class="col-sm-2">
+                Назва
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+        </div>
+        <div class="form-group row">
+            <dt class="col-sm-2">
+                Режисер
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Director)
+            </dd>
+        </div>
+        <div class="form-group row">
+            <dt class="col-sm-2">
+                Дата прем'єри
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Release)
+            </dd>
+        </div>
+        <div class="form-group row">
+            <dt class="col-sm-2">
+                Категорії
+            </dt>
+            <dd class="col-sm-10">
+                @string.Join(", ", Model.FilmCategories.Select(x => x.CategoryName).ToList())
+            </dd>
+        </div>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="submit" value="Видалити" class="btn btn-danger" /> |
+        <a asp-action="Index">Повернутися до списку</a>
+    </form>
+</div>

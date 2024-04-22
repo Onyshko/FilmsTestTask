@@ -1,0 +1,58 @@
+﻿@model FilmsTestTask.Services.Models.FilmMvcModel
+
+@{
+    ViewData["Title"] = "Фільми";
+}
+
+<h1>Додати</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label">Назва</label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Director" class="control-label">Режисер</label>
+                <input asp-for="Director" class="form-control" />
+                <span asp-validation-for="Director" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Release" class="control-label">Дата прем'єри</label>
+                <input asp-for="Release" class="form-control" />
+                <span asp-validation-for="Release" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <button type="button" id="showCategories" class="btn btn-outline-secondary mb-2">Додати категорію</button>
+                <div id="categorySelector" class="row" style="display: none;">
+                    <div class="col-12 mb-2">
+                        <select class="form-control" id="categoriesSelect"></select>
+                    </div>
+                    <div class="btn-group container-btn" role="group" aria-label="Basic example">
+                        <button type="button" class="btn btn-success" id="addCategory">Додати</button>
+                        <button type="button" class="btn btn-danger" onclick="$('#categorySelector').hide();">Відмінити</button>
+                    </div>
+                </div>
+                <ul id="selectedCategories" class="list-unstyled"></ul>
+            </div>
+
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-outline-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Повернутися до списку</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script src="~/js/FilmCategoryComponent.js" asp-append-version="true"></script>
+}

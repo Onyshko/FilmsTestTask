@@ -1,0 +1,61 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.form-group {
+    margin-bottom: 8px;
+}
+
+#categorySelector {
+    text-align: center; /* Вирівнює елементи всередині контейнера по центру */
+    padding: 8px;
+    border-radius: 8px;
+    background-color: #A7DAE7;
+}
+
+#categorySelector .btn {
+    display: inline-block; /* Відображає кнопки в одному рядку */
+    margin: 0.5%; /* Додає невеликий відступ між кнопками */
+}
+
+#selectedCategories {
+    margin-top: 20px; /* Відступ зверху для списку вибраних категорій */
+}
+
+.selector-item {
+    display: flex;
+    align-items: center; /* Вирівнювання елементів за вертикальною оссю */
+    justify-content: space-between; /* Вирівнювання елементів з розподілом простору між ними */
+    background-color: #A7DAE7;
+    padding: 4px;
+    border-radius: 8px;
+    margin : 4px;
+}
+
+.category-name {
+    flex: 1; /* Дозволяє тексту зайняти весь доступний простір, крім кнопки */
+    padding-right: 10px; /* Додатковий відступ справа, якщо потрібно */
+}
+
+.remove-category {
+    flex-shrink: 0; /* Запобігає зменшенню кнопки при нестачі простору */
+}

@@ -1,0 +1,17 @@
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.APIServices\bin\Debug\net7.0\FilmsTestTask.APIServices.deps.json
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.APIServices\bin\Debug\net7.0\FilmsTestTask.APIServices.dll
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.APIServices\bin\Debug\net7.0\FilmsTestTask.APIServices.pdb
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.APIServices\bin\Debug\net7.0\FilmsTestTask.Domain.dll
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.APIServices\bin\Debug\net7.0\FilmsTestTask.Repositories.dll
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.APIServices\bin\Debug\net7.0\FilmsTestTask.Domain.pdb
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.APIServices\bin\Debug\net7.0\FilmsTestTask.Repositories.pdb
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.APIServices\obj\Debug\net7.0\FilmsTestTask.APIServices.csproj.AssemblyReference.cache
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.APIServices\obj\Debug\net7.0\FilmsTestTask.APIServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.APIServices\obj\Debug\net7.0\FilmsTestTask.APIServices.AssemblyInfoInputs.cache
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.APIServices\obj\Debug\net7.0\FilmsTestTask.APIServices.AssemblyInfo.cs
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.APIServices\obj\Debug\net7.0\FilmsTestTask.APIServices.csproj.CoreCompileInputs.cache
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.APIServices\obj\Debug\net7.0\FilmsTestTask.APIServices.csproj.CopyComplete
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.APIServices\obj\Debug\net7.0\FilmsTestTask.APIServices.dll
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.APIServices\obj\Debug\net7.0\refint\FilmsTestTask.APIServices.dll
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.APIServices\obj\Debug\net7.0\FilmsTestTask.APIServices.pdb
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.APIServices\obj\Debug\net7.0\ref\FilmsTestTask.APIServices.dll

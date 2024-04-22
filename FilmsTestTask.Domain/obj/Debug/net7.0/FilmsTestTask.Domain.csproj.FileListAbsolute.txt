@@ -1,0 +1,14 @@
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.Domain\bin\Debug\net7.0\FilmsTestTask.Domain.deps.json
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.Domain\bin\Debug\net7.0\FilmsTestTask.Domain.runtimeconfig.json
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.Domain\bin\Debug\net7.0\FilmsTestTask.Domain.dll
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.Domain\bin\Debug\net7.0\FilmsTestTask.Domain.pdb
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.Domain\obj\Debug\net7.0\FilmsTestTask.Domain.csproj.AssemblyReference.cache
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.Domain\obj\Debug\net7.0\FilmsTestTask.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.Domain\obj\Debug\net7.0\FilmsTestTask.Domain.AssemblyInfoInputs.cache
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.Domain\obj\Debug\net7.0\FilmsTestTask.Domain.AssemblyInfo.cs
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.Domain\obj\Debug\net7.0\FilmsTestTask.Domain.csproj.CoreCompileInputs.cache
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.Domain\obj\Debug\net7.0\FilmsTestTask.Domain.dll
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.Domain\obj\Debug\net7.0\refint\FilmsTestTask.Domain.dll
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.Domain\obj\Debug\net7.0\FilmsTestTask.Domain.pdb
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.Domain\obj\Debug\net7.0\FilmsTestTask.Domain.genruntimeconfig.cache
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.Domain\obj\Debug\net7.0\ref\FilmsTestTask.Domain.dll

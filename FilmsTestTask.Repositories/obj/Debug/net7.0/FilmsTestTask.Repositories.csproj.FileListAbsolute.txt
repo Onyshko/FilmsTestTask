@@ -1,0 +1,17 @@
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.Repositories\bin\Debug\net7.0\FilmsTestTask.Repositories.deps.json
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.Repositories\bin\Debug\net7.0\FilmsTestTask.Repositories.runtimeconfig.json
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.Repositories\bin\Debug\net7.0\FilmsTestTask.Repositories.dll
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.Repositories\bin\Debug\net7.0\FilmsTestTask.Repositories.pdb
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.Repositories\bin\Debug\net7.0\FilmsTestTask.Domain.dll
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.Repositories\bin\Debug\net7.0\FilmsTestTask.Domain.pdb
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.Repositories\obj\Debug\net7.0\FilmsTestTask.Repositories.csproj.AssemblyReference.cache
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.Repositories\obj\Debug\net7.0\FilmsTestTask.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.Repositories\obj\Debug\net7.0\FilmsTestTask.Repositories.AssemblyInfoInputs.cache
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.Repositories\obj\Debug\net7.0\FilmsTestTask.Repositories.AssemblyInfo.cs
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.Repositories\obj\Debug\net7.0\FilmsTestTask.Repositories.csproj.CoreCompileInputs.cache
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.Repositories\obj\Debug\net7.0\FilmsTestTask.Repositories.csproj.CopyComplete
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.Repositories\obj\Debug\net7.0\FilmsTestTask.Repositories.dll
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.Repositories\obj\Debug\net7.0\refint\FilmsTestTask.Repositories.dll
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.Repositories\obj\Debug\net7.0\FilmsTestTask.Repositories.pdb
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.Repositories\obj\Debug\net7.0\FilmsTestTask.Repositories.genruntimeconfig.cache
+D:\Programing\FilmsTestTask\FilmsTestTask.API\FilmsTestTask.Repositories\obj\Debug\net7.0\ref\FilmsTestTask.Repositories.dll
